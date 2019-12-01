@@ -1,0 +1,7 @@
+.form-item {
+    padding: 5px;
+}
+
+.form-item + .form-item {
+    margin-left: 5px;
+}
